@@ -1,7 +1,7 @@
 <?php
-	$x = "Hello hello hello";
+	$x = "Hello Hello Hello!"; //deklarasi variable x
 	
-	$y = "Selamat mengerjakan mid";
+	$y = "Selamat mengerjakan mid"; //deklarasi variable y
 	
 	echo $x;
 	echo $y;
